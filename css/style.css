@@ -1,0 +1,26 @@
+.top-margin
+{
+    margin-top: 50px;
+}
+.btn-margin-left
+{
+    margin-left: 20px;
+}
+.option-margin-top
+{
+    margin-top: 20px;
+}
+.price-container
+{
+    margin-top: 60px;
+    width: 80%;
+}
+.price-container-option
+{
+    border-bottom: 1px solid rgb(226, 221, 221);
+    margin-bottom: 10px;
+    padding: 5px;
+}
+.price-container-option-delivery{
+    border-bottom: 2px solid black;
+}
